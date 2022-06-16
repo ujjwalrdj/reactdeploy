@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/reactdeploy/static/css/main.d1a14bca.css",
-    "main.js": "/reactdeploy/static/js/main.9ce77122.js",
-    "static/js/787.501e6206.chunk.js": "/reactdeploy/static/js/787.501e6206.chunk.js",
-    "index.html": "/reactdeploy/index.html",
-    "main.d1a14bca.css.map": "/reactdeploy/static/css/main.d1a14bca.css.map",
-    "main.9ce77122.js.map": "/reactdeploy/static/js/main.9ce77122.js.map",
-    "787.501e6206.chunk.js.map": "/reactdeploy/static/js/787.501e6206.chunk.js.map"
+    "main.css": "/entertainmentapp/static/css/main.46318dd5.css",
+    "main.js": "/entertainmentapp/static/js/main.430d0413.js",
+    "index.html": "/entertainmentapp/index.html",
+    "main.46318dd5.css.map": "/entertainmentapp/static/css/main.46318dd5.css.map",
+    "main.430d0413.js.map": "/entertainmentapp/static/js/main.430d0413.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1a14bca.css",
-    "static/js/main.9ce77122.js"
+    "static/css/main.46318dd5.css",
+    "static/js/main.430d0413.js"
   ]
 }
